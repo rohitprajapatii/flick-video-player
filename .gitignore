@@ -93,3 +93,4 @@ ios/.DS_Store
 *.ap_GeneratedPluginRegistrant.java
 GeneratedPluginRegistrant.java
 .vscode/
+.env
